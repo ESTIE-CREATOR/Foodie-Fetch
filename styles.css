@@ -653,5 +653,7 @@ canvas {
         font-size: 16px;
         margin-right: 10px;
     }
-    
+    footer {
+        flex-direction: column;
+    }
 }
